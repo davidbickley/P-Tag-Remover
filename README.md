@@ -4,7 +4,7 @@
 
 ## Description
 
-The P Tag Remover is a WordPress plugin developed to enhance the cleanliness and structure of your website's HTML output. It specifically targets and removes extraneous `<p>` tags that WordPress's `wpautop` function automatically inserts around images, embeds, and images enclosed within anchor tags in post content. This targeted action addresses common layout issues the author encounters when writing custom themes for Wordpress, and ensures that your content appears as intended without unwanted formatting artifacts introduced by WordPress's automatic actions.
+The P Tag Remover is a simple WordPress plugin developed to enhance the cleanliness and structure of your website's HTML output. It specifically targets and removes extraneous `<p>` tags that WordPress's `wpautop` function automatically inserts around images, embeds, and images enclosed within anchor tags in post content. This targeted action addresses common layout issues the plugin author encounters when writing custom themes for Wordpress, and ensures that your content appears as intended without unwanted formatting artifacts introduced by WordPress's automatic actions.
 
 ## Features
 
@@ -26,7 +26,7 @@ Once activated, The P Tag Remover works automatically, scanning and adjusting th
 
 ## About the Author
 
-The P Tag Remover was developed by David Bickley, a web developer committed to enhancing our experience of the digital world. For more information and to explore other projects, visit [David Bickley's website](http://davidbickley.com/).
+The P Tag Remover was developed by David Bickley, a web developer committed to enhancing our experience of the digital world. For more information and to explore other projects, visit [David's website](http://davidbickley.com/).
 
 ## Version
 
