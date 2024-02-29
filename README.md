@@ -1,4 +1,4 @@
-# The P Tag Remover Plugin README
+# The P Tag Remover Plugin
 
 ---
 
